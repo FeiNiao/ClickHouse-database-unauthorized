@@ -1,0 +1,2 @@
+# ClickHouse-database-unauthorized
+ClickHouse是一款开源的列式数据库，ClickHouse存在未授权访问漏洞，攻击者可利用该漏洞获取数据库的敏感信息
