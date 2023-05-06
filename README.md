@@ -26,4 +26,6 @@ python .\ClickHouseAPI-数据库接口未授权访问.py -f .\host.txt
 疑似存在漏洞均以绿色标出，并且返回数据库的库名
 ![image](https://user-images.githubusercontent.com/66779835/236594123-d8b5924d-0f2c-4967-a280-581064024676.png)
 
+结果存在reps.txt中
+![image](https://user-images.githubusercontent.com/66779835/236594351-67b766ec-a210-43bf-a5bc-95ecb010d06f.png)
 
